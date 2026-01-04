@@ -22,5 +22,35 @@
     "text": "А ты как?",
     "authorId": "df7182dd-b3c6-46cf-9133-f922f988c75d",
     "createdAt": 1704901870088
+  },
+  "3b6a952f-1478-4303-8d26-94c8e8c7d2a2": {
+    "id": "3b6a952f-1478-4303-8d26-94c8e8c7d2a2",
+    "text": "првиет как дела \n",
+    "authorId": "d73cadbd-99a7-48bc-8cd8-863ec0d41d9d",
+    "createdAt": 1767559625004
+  },
+  "34a256cd-22e0-4969-b049-6f2142c6d85f": {
+    "id": "34a256cd-22e0-4969-b049-6f2142c6d85f",
+    "text": "снова текст\n",
+    "authorId": "d73cadbd-99a7-48bc-8cd8-863ec0d41d9d",
+    "createdAt": 1767559701351
+  },
+  "ac8863e4-ac67-4d4e-95b4-862f2a67aaaa": {
+    "id": "ac8863e4-ac67-4d4e-95b4-862f2a67aaaa",
+    "text": "как у вас дела \n\n",
+    "authorId": "d73cadbd-99a7-48bc-8cd8-863ec0d41d9d",
+    "createdAt": 1767559826210
+  },
+  "76d48430-ec3a-4ba3-b4ba-1f2fe232ae14": {
+    "id": "76d48430-ec3a-4ba3-b4ba-1f2fe232ae14",
+    "text": "привет у нас зима\n",
+    "authorId": "d73cadbd-99a7-48bc-8cd8-863ec0d41d9d",
+    "createdAt": 1767561209102
+  },
+  "1ec069b0-c4ad-422c-85ca-bc80d3d170c2": {
+    "id": "1ec069b0-c4ad-422c-85ca-bc80d3d170c2",
+    "text": "что делать с домашкой\n",
+    "authorId": "d73cadbd-99a7-48bc-8cd8-863ec0d41d9d",
+    "createdAt": 1767561559335
   }
 }
