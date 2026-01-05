@@ -1,0 +1,17 @@
+{
+  "4080a8c6-7f64-4a27-8dbd-85e6c7a15f28": {
+    "id": "4080a8c6-7f64-4a27-8dbd-85e6c7a15f28",
+    "email": "optimisist@gmail.com",
+    "username": "user"
+  },
+  "a6459ce1-3c53-440f-b699-0e16b4d8cac9": {
+    "id": "a6459ce1-3c53-440f-b699-0e16b4d8cac9",
+    "email": "test@example.ru",
+    "username": "admin"
+  },
+  "06d29487-6c91-4916-8b3d-d8958af55e11": {
+    "id": "06d29487-6c91-4916-8b3d-d8958af55e11",
+    "email": "klish91@inbox.ru",
+    "username": "test2"
+  }
+}
